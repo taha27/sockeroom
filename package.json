@@ -1,0 +1,23 @@
+{
+  "name": "sockeroom",
+  "version": "1.0.0",
+  "description": "A simple real-time chat room for soccer fans, built using node.js and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taha27/sockeroom.git"
+  },
+  "author": "Taha Saifuddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taha27/sockeroom/issues"
+  },
+  "homepage": "https://github.com/taha27/sockeroom#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
